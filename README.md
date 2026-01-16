@@ -27,7 +27,4 @@ The application aims to improve the overall travel experience by offering a **si
 
 ---
 
-## 📄 License
-
-This project is developed for **educational purposes**.
 
